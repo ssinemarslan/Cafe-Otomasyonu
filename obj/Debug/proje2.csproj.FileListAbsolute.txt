@@ -1,0 +1,53 @@
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\proje2\obj\Debug\proje2.csproj.AssemblyReference.cache
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\proje2\obj\Debug\proje2.csproj.GenerateResource.cache
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\proje2\obj\Debug\proje2.csproj.CoreCompileInputs.cache
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\proje2\bin\Debug\proje2.exe.config
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\proje2\bin\Debug\proje2.exe
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\proje2\bin\Debug\proje2.pdb
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\proje2\obj\Debug\proje2.exe
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\proje2\obj\Debug\proje2.pdb
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\proje2\obj\Debug\proje2.Giris.resources
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\proje2\obj\Debug\proje2.Kategoriler.resources
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\proje2\obj\Debug\proje2.Musteriler.resources
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\proje2\obj\Debug\proje2.Saticilar.resources
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\proje2\obj\Debug\proje2.Siparisler.resources
+C:\Users\sinem.arslan\Desktop\UYGULAMARIM SİNEM\Console\ORNEK1\proje2\obj\Debug\proje2.Urunler.resources
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\proje2\obj\Debug\proje2.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\proje2\obj\Debug\proje2.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\proje2\obj\Debug\proje2.exe
+C:\Users\HP\OneDrive - Anadolu Üniversitesi - AÖF\Masaüstü\Uygulamalarım Sinem\Projeler\proje2\obj\Debug\proje2.pdb
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\proje2\obj\Debug\proje2.csproj.AssemblyReference.cache
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\proje2\obj\Debug\proje2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\proje2\obj\Debug\proje2.Giris.resources
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\proje2\obj\Debug\proje2.Kategoriler.resources
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\proje2\obj\Debug\proje2.Musteriler.resources
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\proje2\obj\Debug\proje2.Saticilar.resources
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\proje2\obj\Debug\proje2.Siparisler.resources
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\proje2\obj\Debug\proje2.Urunler.resources
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\proje2\obj\Debug\proje2.csproj.GenerateResource.cache
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\proje2\obj\Debug\proje2.csproj.CoreCompileInputs.cache
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\proje2\obj\Debug\proje2.exe
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\proje2\obj\Debug\proje2.pdb
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\proje2\bin\Debug\proje2.exe.config
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\proje2\bin\Debug\proje2.exe
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\proje2\bin\Debug\proje2.pdb
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\proje2\obj\Debug\proje2.Raporlar.resources
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Cafe\bin\Debug\proje2.exe.config
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Cafe\bin\Debug\proje2.exe
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Cafe\bin\Debug\proje2.pdb
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Cafe\obj\Debug\proje2.csproj.AssemblyReference.cache
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Cafe\obj\Debug\proje2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Cafe\obj\Debug\proje2.Giris.resources
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Cafe\obj\Debug\proje2.Kategoriler.resources
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Cafe\obj\Debug\proje2.Musteriler.resources
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Cafe\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Cafe\obj\Debug\proje2.Raporlar.resources
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Cafe\obj\Debug\proje2.Saticilar.resources
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Cafe\obj\Debug\proje2.Siparisler.resources
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Cafe\obj\Debug\proje2.Urunler.resources
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Cafe\obj\Debug\proje2.csproj.GenerateResource.cache
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Cafe\obj\Debug\proje2.csproj.CoreCompileInputs.cache
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Cafe\obj\Debug\proje2.exe
+C:\Users\sinem\OneDrive\Masaüstü\Uygulamalarım Sinem\Projeler\Cafe\obj\Debug\proje2.pdb
